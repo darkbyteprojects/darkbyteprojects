@@ -64,15 +64,6 @@ Java • Python • Git & GitHub • GitHub Actions • VS Code
 - 🌍 Small Cloudflare Workers-based web tools
 
 ---
- 
-### 🔥 Fun & Side Projects
-> Some smaller experiments and fun builds I've made along the way — a mix of streaming utilities, web tools, and Android experiments.
- 
-- 🎯 IPTV playlist parsing & validation utilities
-- 🧪 Experiments with Media3 / ExoPlayer for DRM playback
-- 🌍 Small Cloudflare Workers-based web tools
----
-
 
 ### 📊 GitHub Stats
 

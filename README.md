@@ -34,11 +34,25 @@ A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compo
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack & Mastery
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cloudflare,js,java,python,git,github,vscode&perline=5" />
-</p>
+📱 Android Development
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,ktor,firebase" /> </p>
+
+Kotlin • Android Studio • Gradle • Ktor • Firebase
+
+🌐 Web Development
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" /> </p>
+
+HTML5 • CSS3 • JavaScript • Cloudflare Workers
+
+🧰 Languages & Tools
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,git,github,githubactions,vscode" /> </p>
+
+Java • Python • Git & GitHub • GitHub Actions • VS Code
 
 ---
 

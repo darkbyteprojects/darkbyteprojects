@@ -38,19 +38,19 @@ A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compo
 
 📱 Android Development
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,ktor,firebase" /> </p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,ktor,firebase" width="280"/>
 
 Kotlin • Android Studio • Gradle • Ktor • Firebase
 
 🌐 Web Development
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" /> </p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" width="220"/>
 
 HTML5 • CSS3 • JavaScript • Cloudflare Workers
 
 🧰 Languages & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,git,github,githubactions,vscode" /> </p>
+<img src="https://skillicons.dev/icons?i=java,python,git,github,githubactions,vscode" width="330"/>
 
 Java • Python • Git & GitHub • GitHub Actions • VS Code
 

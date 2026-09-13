@@ -57,7 +57,7 @@ A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compo
 
 ### 📊 GitHub Stats
 
-Check out my pinned repos and contribution graph directly on my profile above ⬆️
+Check out my pinned repos and contribution graph directly on my profile below ⬇️
 
 ---
 

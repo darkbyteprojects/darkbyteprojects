@@ -64,12 +64,6 @@ Java • Python • Git & GitHub • GitHub Actions • VS Code
 - 🌍 Small Cloudflare Workers-based web tools
 
 ---
-
-### 📈 By the Numbers
- 
-<img src="https://count.getloli.com/@darkbyteprojects?name=darkbyteprojects&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="300"/>
-
----
  
 ### 🔥 Fun & Side Projects
 > Some smaller experiments and fun builds I've made along the way — a mix of streaming utilities, web tools, and Android experiments.

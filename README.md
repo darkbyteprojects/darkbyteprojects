@@ -65,6 +65,21 @@ Java • Python • Git & GitHub • GitHub Actions • VS Code
 
 ---
 
+### 📈 By the Numbers
+ 
+<img src="https://count.getloli.com/@darkbyteprojects?name=darkbyteprojects&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+
+---
+ 
+### 🔥 Fun & Side Projects
+> Some smaller experiments and fun builds I've made along the way — a mix of streaming utilities, web tools, and Android experiments.
+ 
+- 🎯 IPTV playlist parsing & validation utilities
+- 🧪 Experiments with Media3 / ExoPlayer for DRM playback
+- 🌍 Small Cloudflare Workers-based web tools
+---
+
+
 ### 📊 GitHub Stats
 
 Check out my pinned repos and contribution graph directly on my profile below ⬇️

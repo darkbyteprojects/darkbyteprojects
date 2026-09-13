@@ -37,7 +37,7 @@ A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compo
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cloudflare,js,java,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,cloudflare,js,java,python,git,github,vscode&perline=5" />
 </p>
 
 ---

@@ -1,80 +1,93 @@
-<h1 align="center">Hey, I'm a Developer who loves building for streaming & media 👋</h1>
+<h1 align="center">Hi there 👋 I build for streaming & media</h1>
 
 <p align="center">
-  I build tools around <b>IPTV, streaming, reverse engineering, and media playback</b> — turning M3U links into seamless UI, one commit at a time.
+  Crafting tools around <b>IPTV, streaming, reverse engineering, and media playback</b> —<br/>
+  turning raw M3U links into clean, seamless viewing experiences, one commit at a time.
 </p>
 
 <p align="center">
-  IPTV • Streaming • DRM • Android • Jetpack Compose • Reverse Engineering
+  <img src="https://img.shields.io/badge/IPTV-000000?style=for-the-badge&logo=television&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streaming-FF0000?style=for-the-badge&logo=youtubeplay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRM-6E40C9?style=for-the-badge&logo=key&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-333333?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 📺 [IPTV Playlists Index](https://playlists.dbprojects.workers.dev/)
-A web-based directory where users can browse and discover **IPTV live TV playlists** in one place.
-- Curated, searchable index of live TV playlist sources
-- Fast, lightweight, deployed on Cloudflare Workers
-- Powers the in-app marketplace of my Android IPTV app (see below 👇)
+### 📺 [IPTV Playlists Index](https://playlists.dbprojects.workers.dev/)
+A web-based directory for discovering **IPTV live TV playlists** in one place.
 
-#### 🌐 [Vyan](https://vyan.dbprojects.workers.dev/)
-Another web project running live in production — deployed on Cloudflare Workers.
+- 🔎 Curated, searchable index of live TV playlist sources
+- ⚡ Fast, lightweight, and deployed on Cloudflare Workers
+- 🛒 Powers the in-app marketplace of my Android IPTV app below 👇
 
-#### 📱 IPTV Streamer — Android App (Jetpack Compose)
-A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compose.
+### 🌐 [Vyan](https://vyan.dbprojects.workers.dev/)
+A web project running live in production, also deployed on Cloudflare Workers.
+
+### 📱 IPTV Streamer — Android App (Jetpack Compose)
+A full-featured **IPTV live TV streaming app** built entirely with modern Android tooling.
 
 **Highlights:**
 - 🎬 Live TV streaming with **DRM support**
-- 🔑 **Xtream Codes** server credentials login support
+- 🔑 **Xtream Codes** server credential login support
 - 📄 Supports **M3U / M3U8** files and **JSON** playlist formats
-- 🛒 **Inbuilt marketplace** — pulls playlists directly from my [Playlists Index](https://playlists.dbprojects.workers.dev/) site
+- 🛒 **Inbuilt marketplace** pulling playlists directly from my [Playlists Index](https://playlists.dbprojects.workers.dev/)
 - 🔍 **Inbuilt Xtream server credentials finder**
-- ⚡ Built fully with modern Android tooling — Jetpack Compose UI, clean architecture
+- 🏗️ Built fully with Jetpack Compose UI and clean architecture
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 **📱 Android & Reverse Engineering**
-<br>
+
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,ktor,firebase" width="280"/>
-<br>
-Kotlin • Android Studio • JADX • Frida • Gradle • Ktor • Firebase
+
+`Kotlin` `Android Studio` `Gradle` `Ktor` `Firebase`
 
 **🌐 Web Development**
-<br>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" width="220"/>
-<br>
-HTML5 • CSS3 • JavaScript • Cloudflare Workers
+
+`HTML5` `CSS3` `JavaScript` `Cloudflare Workers`
 
 **🧰 Languages & Tools**
-<br>
+
 <img src="https://skillicons.dev/icons?i=java,python,git,github,githubactions,vscode" width="330"/>
-<br>
-Java • Python • Git & GitHub • GitHub Actions • VS Code
+
+`Java` `Python` `Git & GitHub` `GitHub Actions` `VS Code`
 
 ---
 
-### 🔥 Fun & Side Projects
+## 🔥 Fun & Side Projects
+
 > Experiments, streaming utilities, and security research built while testing edge cases.
 
 - 🎯 IPTV playlist parsing & validation utilities
 - 🧪 Experiments with Media3 / ExoPlayer for DRM playback
-- 🔍 APK analysis & dynamic analysis experiments (JADX & Frida)
-- 🌍 Small Cloudflare Workers-based web tools
+- 🔍 APK static & dynamic analysis experiments using JADX and Frida
+- 🌍 Small Cloudflare Workers–based web tools
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-Check out my pinned repos and contribution graph directly on my profile below ⬇️
+Check out my pinned repositories and contribution graph directly on my profile below ⬇️
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkbyteprojects&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkbyteprojects&theme=radical&hide_border=true" width="48%"/>
+</p>
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://playlists.dbprojects.workers.dev/"><img src="https://img.shields.io/badge/IPTV%20Playlists-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://vyan.dbprojects.workers.dev/"><img src="https://img.shields.io/badge/Vyan-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 </p>

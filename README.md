@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm a Developer who loves building for streaming & media 👋</h1>
 
 <p align="center">
-  I build tools around <b>IPTV, streaming, and media playback</b> — from web-based playlist hubs to full-featured Android apps.
+  I build tools around <b>IPTV, streaming, reverse engineering, and media playback</b> — turning M3U links into seamless UI, one commit at a time.
 </p>
 
 <p align="center">
-  IPTV • Streaming • DRM • Android • Jetpack Compose
+  IPTV • Streaming • DRM • Android • Jetpack Compose • Reverse Engineering
 </p>
 
 ---
@@ -19,7 +19,7 @@ A web-based directory where users can browse and discover **IPTV live TV playlis
 - Powers the in-app marketplace of my Android IPTV app (see below 👇)
 
 #### 🌐 [Vyan](https://vyan.dbprojects.workers.dev/)
-Another one of my web projects — check it out live.
+Another web project running live in production — deployed on Cloudflare Workers.
 
 #### 📱 IPTV Streamer — Android App (Jetpack Compose)
 A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compose.
@@ -34,33 +34,34 @@ A full-featured **IPTV live TV streaming app** built entirely with Jetpack Compo
 
 ---
 
-🛠️ Tech Stack & Mastery
+### 🛠️ Tech Stack & Tools
 
-📱 Android Development
-
+**📱 Android & Reverse Engineering**
+<br>
 <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,ktor,firebase" width="280"/>
+<br>
+Kotlin • Android Studio • JADX • Frida • Gradle • Ktor • Firebase
 
-Kotlin • Android Studio • Gradle • Ktor • Firebase
-
-🌐 Web Development
-
+**🌐 Web Development**
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare" width="220"/>
-
+<br>
 HTML5 • CSS3 • JavaScript • Cloudflare Workers
 
-🧰 Languages & Tools
-
+**🧰 Languages & Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=java,python,git,github,githubactions,vscode" width="330"/>
-
+<br>
 Java • Python • Git & GitHub • GitHub Actions • VS Code
 
 ---
 
 ### 🔥 Fun & Side Projects
-> Some smaller experiments and fun builds I've made along the way — a mix of streaming utilities, web tools, and Android experiments.
+> Experiments, streaming utilities, and security research built while testing edge cases.
 
 - 🎯 IPTV playlist parsing & validation utilities
 - 🧪 Experiments with Media3 / ExoPlayer for DRM playback
+- 🔍 APK analysis & dynamic analysis experiments (JADX & Frida)
 - 🌍 Small Cloudflare Workers-based web tools
 
 ---

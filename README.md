@@ -75,12 +75,12 @@ A full-featured **IPTV live TV streaming app** built entirely with modern Androi
 ---
 
 ## 📊 GitHub Stats
-
+ 
 Check out my pinned repositories and contribution graph directly on my profile below ⬇️
-
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkbyteprojects&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkbyteprojects&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darkbyteprojects&theme=github_dark" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=darkbyteprojects&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 ---
